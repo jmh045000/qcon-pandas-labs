@@ -1,0 +1,9 @@
+name: qcon-pandas-labs
+channels:
+    - conda-forge
+    - defaults
+dependencies:
+    - python
+    - numpy
+    - pandas
+    - matplotlib
